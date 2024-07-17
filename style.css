@@ -5,13 +5,7 @@ header {
    background-size: cover;
    text-align: center;
    padding: 10px;
-.logo {
-    width: 100px;
-    height: auto;
-    padding-right: 1200px;
-    padding-top: 30px;
-    padding-bottom: 60px;
-}
+
 h1 {
     font-family: "Playwrite CU", cursive;
     flex-grow: 1; /* Allows the heading to take up available space */
@@ -56,6 +50,7 @@ main {
     float: left;
     margin-right: 10px;
     padding: 20px 5px;
+    clear: left;
     
 }
 h3 {
@@ -67,7 +62,7 @@ h3 {
     font-weight: 300;
     background-color: #e3ca86;
     padding: 10px 20px;
-    clear: left;
+    
 }
 footer {
     color: #0a9ea1;
@@ -75,4 +70,6 @@ footer {
     padding: 20px;
     text-align: center;
 }
-
+p {
+    text-align: justify;
+}

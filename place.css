@@ -5,12 +5,6 @@ header {
     background-size: cover;
     text-align: center;
     padding: 10px;
- .logo {
-     width: 100px;
-     height: auto;
-     padding-right: 1200px;
-     padding-top: 30px;
- }
  h1 {
      font-family: "Playwrite CU", cursive;
      flex-grow: 1; /* Allows the heading to take up available space */
