@@ -51,19 +51,20 @@ img {
 }
 .snorkel {
     clear: right;
-    padding: 20px;
+    padding-left: 5px;
 }
 .surfing {
     clear: right;
-    padding: 20px;
+    padding-left: 5px;
 }
 .fireflies {
     clear: right;
-    padding: 20px;
+    padding-left: 5px;
 }
 .content {
     background-color: #ebccb5;
-    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 180px;
 }
 
 
