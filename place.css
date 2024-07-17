@@ -1,0 +1,45 @@
+header {
+    font-family: Arial, sans-serif;
+    font-weight: 600; 
+    background-image: url("../images/background1.jpg");
+    background-size: cover;
+    text-align: center;
+    padding: 10px;
+ .logo {
+     width: 100px;
+     height: auto;
+     padding-right: 1200px;
+     padding-top: 30px;
+ }
+ h1 {
+     font-family: "Playwrite CU", cursive;
+     flex-grow: 1; /* Allows the heading to take up available space */
+     letter-spacing: 2px;
+     font-weight: 700;
+ }
+ .link {
+    padding: 3px;
+    text-align: right;
+}
+.navi a{
+    color: aqua;
+    font-size: 16px;
+    background-color: #941e47;
+    border-radius: 4px;
+    padding: 10px;
+    text-decoration: none;
+    box-shadow: 2px 2px 0px aqua inset, 2px 2px 0px aqua;
+}
+.navi a:hover {
+    background-color: #16ca25;
+    color: #080100;
+    box-shadow: 2px 2px 0px #0a9ea1 inset, 2px 2px 0px #0a9ea1;
+}
+.navi a:active {
+    font-size: 20px;
+}
+.lotus {
+    font-family: Arial, sans-serif;
+    font-size: 60px;
+    font-weight: 600;  
+}   
