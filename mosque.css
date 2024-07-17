@@ -40,3 +40,7 @@ header {
 
     font-weight: 500;
  }
+ .content {
+    background-color: greenyellow;
+    padding: 20px;
+ }

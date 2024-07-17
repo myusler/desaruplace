@@ -44,4 +44,8 @@ h3,p {
 img {
     padding-bottom: 40px;
 }
+.content {
+    background-color: rgb(231, 171, 181);
+    padding: 10px;
+}
 
