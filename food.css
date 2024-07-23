@@ -1,6 +1,10 @@
+body {
+    margin: 0 auto;
+    background: border-box;
+}
 header {
     font-family: Arial, sans-serif;
-    font-weight: 600; 
+    font-weight: 700; 
     background-image: url("../images/background1.jpg");
     background-size: cover;
     text-align: center;
@@ -8,8 +12,10 @@ header {
  h1 {
      font-family: "Playwrite CU", cursive;
      flex-grow: 1; /* Allows the heading to take up available space */
-     letter-spacing: 2px;
      font-weight: 700;
+ }
+ h3 {
+    font-weight: 600;
  }
  
  
@@ -21,25 +27,18 @@ header {
  .navi a{
      color: aqua;
      font-size: 16px;
-     background-color: #941e47;
-     border-radius: 4px;
      padding: 10px;
      text-decoration: none;
-     box-shadow: 2px 2px 0px aqua inset, 2px 2px 0px aqua;
  }
  .navi a:hover {
-    background-color: #16ca25;
-    color: #080100;
-    box-shadow: 2px 2px 0px #0a9ea1 inset, 2px 2px 0px #0a9ea1;
+    color: #fc034e;
 }
 .navi a:active {
     font-size: 20px;
 }
-h3,p {
-    font-family: Roboto,sans-serif;
+p {
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: 500;
-    padding: 3px;
-    margin: 3px;
 }
 img {
     padding-bottom: 40px;
