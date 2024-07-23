@@ -7,6 +7,7 @@ header {
     background-size: cover;
     text-align: center;
     padding: 5px;
+}
  h1 {
      font-family: "Playwrite CU", cursive;
      flex-grow: 1; /* Allows the heading to take up available space */
@@ -14,7 +15,7 @@ header {
  }
  
  
- }
+ 
  .link {
      padding: 3px;
      text-align: right;
