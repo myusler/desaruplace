@@ -9,10 +9,14 @@ header {
     background-size: cover;
     text-align: center;
     padding: 5px;
+}
  h1 {
      font-family: "Playwrite CU", cursive;
      font-size: 26px;
      font-weight: 600;
+ }
+ h2 {
+    padding: 5px;
  }
  .link {
     padding: 3px;
@@ -29,6 +33,12 @@ header {
 }
 .navi a:active {
     font-size: 20px;
+}
+img {
+    padding: 3px;
+}
+p {
+    padding: 10px;
 }
 
 

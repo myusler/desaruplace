@@ -9,6 +9,7 @@ header {
     background-size: cover;
     text-align: center;
     padding: 10px;
+}
  h1 {
      font-family: "Playwrite CU", cursive;
      flex-grow: 1; /* Allows the heading to take up available space */
@@ -16,10 +17,9 @@ header {
  }
  h3 {
     font-weight: 600;
+    padding: 3px;
  }
  
- 
- }
  .link {
      padding: 3px;
      text-align: right;
@@ -39,7 +39,7 @@ header {
 p {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 500;
-    padding: 10px;;
+    padding: 5px;;
 }
 img {
     padding-bottom: 40px;

@@ -10,14 +10,13 @@ header {
     text-align: center;
     padding: 10px;
     margin: 1px;
+}
  h1 {
      font-family: "Playwrite CU", cursive;
      flex-grow: 1; /* Allows the heading to take up available space */
      font-weight: 700;
  }
  
- 
- }
  .link {
      padding: 3px;
      text-align: right;
@@ -34,12 +33,15 @@ header {
 }
 .navi a:active {
     font-size: 20px;
-}   
+}
+h2 {
+    padding: 5px;
+} 
  
  p {
     font-family: Roboto,sans-serif;
     font-weight: 500;
-    padding: 2px;
+    padding: 5px;
     margin: 3px;
     
  }

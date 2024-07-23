@@ -1,5 +1,6 @@
 body {
     margin: 0 auto;
+}
 header {
     font-family: Arial, sans-serif;
     font-weight: 700; 
@@ -20,7 +21,7 @@ header {
      padding: 3px;
      text-align: right;
  }
- .navi a{
+ .navi a {
      color: aqua;
      font-size: 16px;
      padding: 10px;
@@ -31,10 +32,13 @@ header {
 }
 .navi a:active {
     font-size: 20px;
-}   
+}  
+h2 {
+    padding: 10px;
+} 
  p {
     font-family: Roboto,sans-serif;
-
+    padding: 10px;
     font-weight: 500;
  }
  .content {
