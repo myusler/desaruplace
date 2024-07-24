@@ -60,6 +60,13 @@ h3 {
     background-color: #e3ca86;
     padding: 5px;
     clear: left;
+.responsive {
+    width: 100%;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
     
 }
 footer {
