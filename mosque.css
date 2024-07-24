@@ -43,11 +43,11 @@ h2 {
     padding: 10px;
     font-weight: 500;
 .responsive {
-    max-width: 100%;
+    max-width: 50%;
     height: auto;
     display: block;
-    margin-right: auto;
     margin-left: auto;
+    margin-right: auto;
  }
  .content {
     padding-top: 3px;
