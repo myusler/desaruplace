@@ -36,11 +36,18 @@ header {
 }  
 h2 {
     padding: 10px;
+    text-align: center;
 } 
  p {
     font-family: Roboto,sans-serif;
     padding: 10px;
     font-weight: 500;
+.responsive {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
  }
  .content {
     padding-top: 3px;
