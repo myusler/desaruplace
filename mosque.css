@@ -1,6 +1,6 @@
 body {
     margin: 0 auto;
-    background: border-box;
+    box-sizing: border-box;
 }
 header {
     font-family: Arial, sans-serif;
@@ -36,13 +36,21 @@ header {
 }  
 h2 {
     padding: 10px;
+    text-align: center;
 } 
  p {
     font-family: Roboto,sans-serif;
     padding: 10px;
     font-weight: 500;
- }
+.responsive {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
  .content {
+<<<<<<< HEAD
     background-color: greenyellow;
     padding: 3px;
  }
@@ -53,3 +61,10 @@ h2 {
     margin-left: auto;
     margin-right: auto;
 }
+=======
+    padding-top: 3px;
+    padding-bottom: 120px;
+    background-color: #42f59b;
+      
+ }
+>>>>>>> 5aa90fb87c61325eee7bff77a4f09e04d7af4519

@@ -1,6 +1,7 @@
 body {
     margin: 0 auto;
-    background: border-box;
+    display: block;
+    box-sizing: border-box;
 }
 header {
     font-family: Arial, sans-serif;
@@ -17,6 +18,7 @@ header {
  }
  h2 {
     padding: 5px;
+    text-align: center;
  }
  .link {
     padding: 3px;
@@ -36,6 +38,13 @@ header {
 }
 img {
     padding: 3px;
+}
+.responsive {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 p {
     padding: 10px;
