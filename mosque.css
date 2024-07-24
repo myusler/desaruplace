@@ -1,5 +1,6 @@
 body {
     margin: 0 auto;
+    display: block;
     box-sizing: border-box;
 }
 header {
@@ -44,7 +45,7 @@ h2 {
     font-weight: 500;
  }
 .responsive {
-    width: 100%;
+    max-width: 100%;
     height: auto;
     display: block;
     margin-left: auto;
@@ -52,13 +53,8 @@ h2 {
 }
  .content {
     background-color: #ccf272;
-    padding: 3px;
+    padding: 3px 3px 60px 3px;
  }
- .responsive {
-    width: 100%;
-    height: auto;
-    margin-left: auto;
-    margin-right: auto;
-}
+ 
 
 
