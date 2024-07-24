@@ -43,13 +43,6 @@ h2 {
     font-weight: 500;
     padding: 5px;
     margin: 3px;
-.responsive {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin-right: auto;
-    margin-left: auto;
-}
 img {
     float: right;
     padding: 2px;
@@ -70,6 +63,11 @@ img {
     background-color: #ebccb5;
     padding-top: 10px;
     padding-bottom: 200px;
+     max-width: 100%;
+    height: auto;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 
