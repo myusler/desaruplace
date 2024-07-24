@@ -46,3 +46,10 @@ h2 {
     background-color: greenyellow;
     padding: 3px;
  }
+ img {
+    width: 800px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
