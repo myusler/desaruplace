@@ -1,7 +1,5 @@
 body {
     margin: 0 auto;
-    display: block;
-    box-sizing: border-box;
 }
 header {
     font-family: Arial, sans-serif;
@@ -47,7 +45,7 @@ img {
     margin-right: auto;
 }
 p {
-    padding: 10px;
+    padding: 10px 15px;
 }
 
 
