@@ -1,7 +1,5 @@
 body {
     margin: 0 auto;
-    display: block;
-    box-sizing: border-box;
 }
 header {
     font-family: Arial, sans-serif;
@@ -53,7 +51,7 @@ h2 {
 }
  .content {
     background-color: #ccf272;
-    padding: 3px 3px 60px 3px;
+    padding: 3px 3px 10px 3px;
  }
  
 
