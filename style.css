@@ -46,6 +46,7 @@ main {
     margin-right: 5px;
     padding: 5px 3px;
     float: left;
+    max-width: 50%;
     
     
 }
