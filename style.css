@@ -43,9 +43,9 @@ main {
     
 }
 .mypic {
-    float: left;
     margin-right: 5px;
     padding: 5px 3px;
+    float: left;
     
     
 }
@@ -58,7 +58,8 @@ h3 {
     font-weight: 300;
     background-color: #e3ca86;
     padding: 5px 10px;
-    clear: left;
+    clear:left;
+}
 .responsive {
     max-width: 100%;
     height: auto;
@@ -67,7 +68,7 @@ h3 {
     display: block;
 }
     
-}
+
 footer {
     color: #0a9ea1;
     background-color: #0e120f;
